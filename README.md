@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample repo for this Stackoverflow question: 
 
-Things you may want to cover:
+**Install** with these steps:
 
-* Ruby version
+* `git clone git@github.com:pioz/test-react-with-capybara.git`
+* `cd test-react-with-capybara`
+* `bundle`
+* `yarn install`
+* `rails db:migrate`
+* `rails s`
+* visit the page `http://localhost:3000/posts/new`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
