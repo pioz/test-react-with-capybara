@@ -1,6 +1,6 @@
 # README
 
-Sample repo for this Stackoverflow question: 
+Sample repo for this Stackoverflow question: https://stackoverflow.com/questions/49873562/integration-test-with-rails-capybara-with-react-component
 
 **Install** with these steps:
 
